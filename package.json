@@ -1,0 +1,8 @@
+{
+  "name": "rust-crash-course",
+  "version": "1.0.0",
+  "description": "Learn all the fundamentals of the Rust programming language in this crash course",
+  "repository": "https://github.com/newbornfrontender/rust-crash-course.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT"
+}
