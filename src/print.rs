@@ -1,4 +1,3 @@
 pub fn run() {
-    // Print to console
-    println!("Hello form print.rs file!");
+    println!("Number: {}", 1);
 }
