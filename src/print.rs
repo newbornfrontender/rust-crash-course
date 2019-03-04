@@ -1,3 +1,3 @@
 pub fn run() {
-    println!("Number: {}", 1);
+    println!("{} from {}", "Mayushi", "Japan");
 }
