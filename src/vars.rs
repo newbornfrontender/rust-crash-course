@@ -1,5 +1,5 @@
-pub fn run(lastname: String) {
+pub fn run() {
   let name = "Tom";
 
-  println!("My name is {} {}", name, lastname);
+  println!("My name is {}", name);
 }
